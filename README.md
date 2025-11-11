@@ -7,7 +7,6 @@ I'm a Computer Science student
 I'm passionate about technology and innovation. I am driven to turn ideas into real-world solutions by applying both my existing knowledge and everything I continue to learn throughout the journey.
 
 * 🌍  I'm based in Cairo, Egypt
-* 🖥️  See my portfolio at [GitHub](http://om4rss.github.io/My-Portfolio/)
 * ✉️  You can contact me at [omarsnotion@gmail.com](mailto:omarsnotion@gmail.com)
 * 🧠  I'm currently learning C++ and Python
 * 💬  Ask me about I'm a Notion creator, consultor and community leader!
