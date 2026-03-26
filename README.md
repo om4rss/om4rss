@@ -19,41 +19,41 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=clion" height="50" alt="clion logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=clion" height="60" alt="clion logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
 </div>
 
 ###
