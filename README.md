@@ -22,39 +22,39 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=pr" height="70" alt="adobepremierepro logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=ps" height="70" alt="adobephotoshop logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=ai" height="70" alt="adobeillustrator logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=clion" height="70" alt="clion logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="70" alt="pycharm logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=netlify" height="70" alt="netlify logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker" height="70" alt="docker logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=powershell" height="70" alt="powershell logo"  />
-  <img width="10" />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=notion" height="70" alt="notion logo"  />
 </div>
 
