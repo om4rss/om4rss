@@ -68,13 +68,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="linkedin logo"  />
   </a>
+  <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="60" alt="youtube logo"  />
+    <img src="https://skillicons.dev/icons?i=youtube" height="70" alt="youtube logo"  />
   </a>
+  <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="60" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="70" alt="discord logo"  />
   </a>
 </div>
 
