@@ -68,15 +68,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/socials/linkedin.svg" height="70" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="linkedin logo"  />
   </a>
   <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/socials/youtube.svg" height="70" alt="youtube logo"  />
+    <img src="./youtube.svg" height="70" alt="youtube logo"  />
   </a>
   <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/profile-readme-generator/main/public/icons/socials/discord.svg" height="70" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="70" alt="discord logo"  />
   </a>
 </div>
 
