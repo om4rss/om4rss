@@ -1,45 +1,81 @@
-# Omar Sherif
+<h1 align="left">Hello! 👋🏼 I'm Omar Sherif</h1>
 
-Computer Science student focused on developing efficient software solutions and building robust digital ecosystems.
+###
 
----
+<p align="left">I'm a Computer Science student!</p>
 
-### 💻 Profile
-* **Location:** Cairo, Egypt
-* **Inquiries:** omarsnotion@gmail.com
-* **Core Focus:** Software Development, System Optimization & Productivity Systems
+###
 
----
+<h2 align="left">About me</h2>
 
-### 🛠️ Languages & Technologies
+###
 
-#### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="left">🌍 I'm based in Cairo, Egypt<br>✉️ You can contact me at omarsnotion@gmail.com<br>💬 Ask me about Notion!</p>
 
-#### Development Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+###
 
-#### Design & Digital Creation
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<h2 align="left">Languages and tools</h2>
 
----
+###
 
-### 🌐 Connect With Me
+<br clear="both">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/YOUR_YOUTUBE_CHANNEL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Email](https://img.shields.io/badge/Email-omarsnotion%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarsnotion@gmail.com)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=pr" height="70" alt="adobepremierepro logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ps" height="70" alt="adobephotoshop logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ai" height="70" alt="adobeillustrator logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=blender" height="70" alt="blender logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=clion" height="70" alt="clion logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="70" alt="pycharm logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="git logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="70" alt="netlify logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" alt="docker logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="70" alt="powershell logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=notion" height="70" alt="notion logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="linkedin logo"  />
+  </a>
+  <a href="http://youtube.com/@OmarDoesTech" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="60" alt="youtube logo"  />
+  </a>
+  <a href="http://discord.com/users/om4rs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="60" alt="discord logo"  />
+  </a>
+</div>
+
+###
