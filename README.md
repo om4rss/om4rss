@@ -10,7 +10,54 @@
 
 ###
 
-<p align="left">🌍 I'm based in Cairo, Egypt<br>✉️ You can contact me at omarsnotion@gmail.com<br>💬 Ask me about Notion!</p>
+<p align="left">🌍 I'm based in Cairo, Egypt<br>✉️ omarsnotion@gmail.com<br>💬 Ask me about Notion!</p>
+
+###
+
+<!-- Special Embedded Terminal Layout: Selfie and Neofetch Specs -->
+<table align="center" width="100%">
+  <tr>
+    <!-- Left Terminal Window: Portrait / Selfie -->
+    <td width="42%" valign="top">
+      <pre>
+🔴 🟡 🟢 omar@github: ~/portrait.sh
+────────────────────────────────────
+<!-- Embedded actual selfie photo -->
+<div align="center">
+  <img src="./image_2e5758.png" width="80%" style="border-radius: 8px; border: 2px solid #555; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" alt="Omar's Selfie">
+</div>
+────────────────────────────────────
+omar@github:~$ whoami
+Omar Sherif
+      </pre>
+    </td>
+    <!-- Right Terminal Window: Neofetch Specs -->
+    <td width="58%" valign="top">
+      <pre>
+🔴 🟡 🟢 omar@github: ~/neofetch
+────────────────────────────────────
+omar@github
+────────────────────────────────────
+<b>OS</b>       [Your OS, e.g., Windows 11 LTSC]
+<b>Host</b>     [Your PC, e.g., HP EliteBook]
+<b>CPU</b>      [Your CPU, e.g., AMD Ryzen 5]
+<b>Memory</b>   [Your RAM, e.g., 16GB]
+<b>Edu</b>      CS Student @ ACU (confirmed)
+<b>Loc</b>      Cairo, Egypt (confirmed)
+
+<b>─ Stack ────────────────────────────</b>
+<b>Core</b>     C++, Python, C (confirmed)
+<b>IDE</b>      VSCode, CLion (confirmed)
+<b>Tools</b>    Docker, Git, Notion (confirmed)
+
+<b>─ Highlights ───────────────────────</b>
+• Notion Enthusiast! (confirmed)
+• Building the future one line at a time.
+────────────────────────────────────
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -79,3 +126,5 @@
     <img src="https://skillicons.dev/icons?i=discord&c=force" height="70" alt="discord logo" />
   </a>
 </div>
+
+###
