@@ -1,45 +1,21 @@
-# Hello, I'm Omar Sherif
 <h1 align="left">Hello! 👋🏼 I'm Omar Sherif</h1>
 
-Computer Science Student
 ###
 
----
 <p align="left">I'm a Computer Science student!</p>
 
-### About Me
-* **Location** &nbsp; Cairo, Egypt
-* **Contact** &nbsp;&nbsp; omarsnotion@gmail.com
-* **Specialty** &nbsp; Ask me anything about Notion
 ###
 
----
 <h2 align="left">About me</h2>
 
-### Languages & Tools
 ###
 
-<p align="left">
-  <!-- Core Development -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,clion,pycharm&theme=dark" height="48" alt="Development Tools" />
-  <br><br>
-  <!-- Infrastructure & System -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,powershell,notion&theme=dark" height="48" alt="Systems and Docs" />
-  <br><br>
-  <!-- Creative & Design -->
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,pr&theme=dark" height="48" alt="Creative Design Tools" />
-</p>
 <p align="left">🌍 I'm based in Cairo, Egypt<br>✉️ You can contact me at omarsnotion@gmail.com<br>💬 Ask me about Notion!</p>
 
----
 ###
 
-### Connect
 <h2 align="left">Languages and tools</h2>
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
 ###
 
 <br clear="both">
@@ -93,18 +69,13 @@ Computer Science Student
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="linkedin logo"  />
-</a>
-  <a href="YOUR_YOUTUBE_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="40" alt="YouTube" />
+  </a>
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="60" alt="youtube logo"  />
-</a>
-  <a href="YOUR_DISCORD_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" alt="Discord" />
+  </a>
   <a href="http://discord.com/users/om4rs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="60" alt="discord logo"  />
-</a>
-</p>
+  </a>
 </div>
 
 ###
