@@ -68,15 +68,15 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="linkedin logo"  />
+    <img src="https://api.macosicons.com/uploads/LinkedIn_1_bc16ee7a5a.png" height="70" alt="linkedin logo"  />
   </a>
   <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="./youtube.svg" height="70" alt="youtube logo"  />
+    <img src="https://api.macosicons.com/uploads/YouTube_5d1a5fbcf0.png" height="70" alt="youtube logo"  />
   </a>
   <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="70" alt="discord logo"  />
+    <img src="https://api.macosicons.com/uploads/Discord_d4b7c19183.png" height="70" alt="discord logo"  />
   </a>
 </div>
 
