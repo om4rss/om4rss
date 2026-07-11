@@ -14,47 +14,62 @@
 
 ###
 
-<!-- Special Embedded Terminal Layout: Selfie and Neofetch Specs -->
-<table align="center" width="100%">
+<!-- Special Seamless Side-by-Side Terminal Layout -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr>
-    <!-- Left Terminal Window: Portrait / Selfie -->
-    <td width="42%" valign="top">
-      <pre>
-🔴 🟡 🟢 omar@github: ~/portrait.sh
-────────────────────────────────────
-<!-- Embedded actual selfie photo -->
-<div align="center">
-  <img src="./image_2e5758.png" width="80%" style="border-radius: 8px; border: 2px solid #555; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" alt="Omar's Selfie">
-</div>
-────────────────────────────────────
-omar@github:~$ whoami
-Omar Sherif
-      </pre>
+    <!-- Left Terminal Window: ASCII Art Portrait -->
+    <td width="48%" valign="top" style="border: none; padding: 0 10px 0 0;">
+      <div style="background-color: #1e1e2e; border-radius: 12px; padding: 20px; font-family: monospace; color: #cdd6f4; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+        <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span> <span style="color: #a6adc8; margin-left: 8px;">om4rss@github: ~/portrait.sh</span>
+        <hr style="border: 0; border-top: 1px solid #313244; margin: 10px 0;">
+        <pre style="font-family: monospace; line-height: 1.2; color: #b4befe; background: transparent; border: none; padding: 0; margin: 0;">
+                .▄▄████▄▄.
+              .████████████.
+             ▄██████████████▄
+            ██████████████████
+           ████████████████████
+           ████████▀▀░░▀▀██████
+          ░█████▀░░░░░░░░░▀████░
+          ░████░░░░░░░░░░░░░███░
+          ░████░░▀▀░░░░░▀▀░░███░
+           ████░░(⌐)░░░░(⌐)░░██
+           ████░░░░░░░▄░░░░░███
+           ░████▄░░░▀▀▀░░░▄███░
+            ░█████▄▄░░░▄▄████░
+              ▀████████████▀
+             .██████████████.
+           .██████████████████.
+        </pre>
+        <hr style="border: 0; border-top: 1px solid #313244; margin: 10px 0;">
+        <span style="color: #a6e3a1;">om4rss@github:~$</span> whoami<br>
+        Omar Sherif
+      </div>
     </td>
-    <!-- Right Terminal Window: Neofetch Specs -->
-    <td width="58%" valign="top">
-      <pre>
-🔴 🟡 🟢 omar@github: ~/neofetch
-────────────────────────────────────
-omar@github
-────────────────────────────────────
-<b>OS</b>       [Your OS, e.g., Windows 11 LTSC]
-<b>Host</b>     [Your PC, e.g., HP EliteBook]
-<b>CPU</b>      [Your CPU, e.g., AMD Ryzen 5]
-<b>Memory</b>   [Your RAM, e.g., 16GB]
-<b>Edu</b>      CS Student @ ACU (confirmed)
-<b>Loc</b>      Cairo, Egypt (confirmed)
-
-<b>─ Stack ────────────────────────────</b>
-<b>Core</b>     C++, Python, C (confirmed)
-<b>IDE</b>      VSCode, CLion (confirmed)
-<b>Tools</b>    Docker, Git, Notion (confirmed)
-
-<b>─ Highlights ───────────────────────</b>
-• Notion Enthusiast! (confirmed)
-• Building the future one line at a time.
-────────────────────────────────────
-      </pre>
+    
+    <!-- Right Terminal Window: Neofetch Specifications -->
+    <td width="52%" valign="top" style="border: none; padding: 0 0 0 10px;">
+      <div style="background-color: #1e1e2e; border-radius: 12px; padding: 20px; font-family: monospace; color: #cdd6f4; box-shadow: 0 8px 24px rgba(0,0,0,0.4);">
+        <span style="color: #ff5f56;">●</span> <span style="color: #ffbd2e;">●</span> <span style="color: #27c93f;">●</span> <span style="color: #a6adc8; margin-left: 8px;">om4rss@github: ~/neofetch</span>
+        <hr style="border: 0; border-top: 1px solid #313244; margin: 10px 0;">
+        <span style="color: #cba6f7; font-weight: bold;">om4rss@github</span><br>
+        <span style="color: #6c7086;">────────────────────────────────────</span><br>
+        <span style="color: #f38ba8; font-weight: bold;">OS</span>       Windows 11 IoT Enterprise<br>
+        <span style="color: #fab387; font-weight: bold;">Host</span>     VRX99<br>
+        <span style="color: #f9e2af; font-weight: bold;">CPU</span>      Xeon E5-2697 V4<br>
+        <span style="color: #a6e3a1; font-weight: bold;">Memory</span>   16GB DDR4 ECC<br>
+        <span style="color: #74c7ec; font-weight: bold;">Edu</span>      CS Student @ ACU<br>
+        <span style="color: #b4befe; font-weight: bold;">Loc</span>      Cairo, Egypt<br><br>
+        
+        <span style="color: #cba6f7; font-weight: bold;">─ Stack ────────────────────────────</span><br>
+        <span style="color: #f5e0dc; font-weight: bold;">Core</span>     C++, Python, C<br>
+        <span style="color: #f2cdcd; font-weight: bold;">IDE</span>      VSCode, CLion<br>
+        <span style="color: #a6adc8; font-weight: bold;">Tools</span>    Docker, Git, Notion<br><br>
+        
+        <span style="color: #a6e3a1; font-weight: bold;">─ Highlights ───────────────────────</span><br>
+        <span style="color: #cdd6f4;">• Notion Enthusiast!</span><br>
+        <span style="color: #cdd6f4;">• Building the future line by line.</span>
+        <hr style="border: 0; border-top: 1px solid #313244; margin: 10px 0;">
+      </div>
     </td>
   </tr>
 </table>
@@ -115,15 +130,15 @@ omar@github
 
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&c=force" height="70" alt="linkedin logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="linkedin logo" />
   </a>
   <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube&c=force" height="70" alt="youtube logo" />
+    <img src="https://skillicons.dev/icons?i=youtube" height="70" alt="youtube logo" />
   </a>
   <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&c=force" height="70" alt="discord logo" />
+    <img src="https://skillicons.dev/icons?i=discord" height="70" alt="discord logo" />
   </a>
 </div>
 
