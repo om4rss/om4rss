@@ -66,25 +66,13 @@
 
 <br clear="both">
 
-<h2 align="left">Contact me</h2>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="70" alt="linkedin logo" />
   </a>
   <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="70" alt="youtube logo" />
+    <img src="https://skillicons.dev/icons?i=youtube&v=1" height="70" alt="youtube logo" />
   </a>
   <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
