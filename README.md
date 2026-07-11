@@ -66,22 +66,16 @@
 
 <br clear="both">
 
-<h2 align="left">Contact me</h2>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/om4rs/" target="_blank">
-    <img src="./linkedin.png" height="70" alt="linkedin logo"  />
+    <img src="./linkedin.png?v=1" height="70" alt="linkedin logo"  />
   </a>
   <img width="6" />
   <a href="http://youtube.com/@OmarDoesTech" target="_blank">
-    <img src="./youtube.png" height="70" alt="youtube logo"  />
+    <img src="./youtube.png?v=1" height="70" alt="youtube logo"  />
   </a>
   <img width="6" />
   <a href="http://discord.com/users/om4rs" target="_blank">
-    <img src="./discord.png" height="70" alt="discord logo"  />
+    <img src="./discord.png?v=1" height="70" alt="discord logo"  />
   </a>
 </div>
