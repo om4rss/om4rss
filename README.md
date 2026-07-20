@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=007AFF&background=00000000&width=400&height=30&lines=Computer+Science+student!;IT+Professional+and+SysAdmin;Notion+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&color=007AFF&background=00000000&width=400&height=30&lines=Computer+Science+student!;IT+Professional+and+SysAdmin;Notion+Campus+Leader" alt="Typing SVG" />
   </a>
 </p>
 
